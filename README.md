@@ -1,28 +1,29 @@
 # TablasDinamicas
 Introducción a las tablas dinámicas
 
-Trabajar con Rangos y tablas  
+Trabajar con Rangos y tablas
 Quitar duplicados
-Elementos de una tabla dinámica 
+Elementos de una tabla dinámica
 Menus contextuales y lista campo
+
 Operaciones básicas
-• Insertar una tabla dinámica
-• Añadir campos
-• Ordenar por un campo valor
-• Refresh data
-• Segundo campo de valor
-• Aplicar formato 
-• Agrupar por fechas
-• Añadir porcentaje del total
+  Insertar una tabla dinámica
+  Añadir campos
+  Ordenar por un campo valor
+  Refresh data
+  Segundo campo de valor
+  Aplicar formato 
+  Agrupar por fechas
+  Añadir porcentaje del total
 
 Operaciones más avanzadas
-• Personalizar tabla
-• Segmentar
-• Escala de tiempo
-• Formato tabular
-• Campo calculado
-• Tablas dinámicas recomendadas
-• Gráficos dinámicos
+  Personalizar tabla
+  Segmentar
+  Escala de tiempo
+  Formato tabular
+  Campo calculado
+  Tablas dinámicas recomendadas
+  Gráficos dinámicos
 
 ##Referencias
 https://business.tutsplus.com/es/tutorials/advanced-excel-pivot-table-techniques--cms-28572
