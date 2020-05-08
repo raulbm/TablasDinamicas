@@ -1,6 +1,4 @@
-# TablasDinamicas
-**Introducción a las tablas dinámicas**
-
+# Introducción a las tablas dinámicas
 
 1. Trabajar con Rangos y tablas
 
@@ -44,15 +42,15 @@
     - Tablas dinámicas recomendadas
   
     - Gráficos dinámicos
+    
 
-##**Referencias**
-
+## Referencias
 - https://business.tutsplus.com/es/tutorials/advanced-excel-pivot-table-techniques--cms-28572
 
 - https://exceljet.net/excel-pivot-tables
 
-##**Ficheros de trabajo**
 
+## Ficheros de trabajo
 - https://templates.office.com/en-au/sample-pivottable-report-tm04035486
 
 - https://exceljet.net/excel-pivot-tables#sample_data
