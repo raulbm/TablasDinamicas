@@ -45,12 +45,12 @@
     
 
 ## Referencias
-- https://business.tutsplus.com/es/tutorials/advanced-excel-pivot-table-techniques--cms-28572
+- <https://business.tutsplus.com/es/tutorials/advanced-excel-pivot-table-techniques--cms-28572>
 
-- https://exceljet.net/excel-pivot-tables
+- <https://exceljet.net/excel-pivot-tables>
 
 
 ## Ficheros de trabajo
-- https://templates.office.com/en-au/sample-pivottable-report-tm04035486
+- <https://templates.office.com/en-au/sample-pivottable-report-tm04035486>
 
-- https://exceljet.net/excel-pivot-tables#sample_data
+- <https://exceljet.net/excel-pivot-tables#sample_data>
