@@ -54,3 +54,5 @@
 - <https://templates.office.com/en-au/sample-pivottable-report-tm04035486>
 
 - <https://exceljet.net/excel-pivot-tables#sample_data>
+
+- <https://github.com/raulbm/TablasDinamicas/blob/master/An%C3%A1lisis%20de%20datos%20con%20Excel%20-%20Conceptos%20b%C3%A1siscos%20previos.pptx>
