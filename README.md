@@ -57,4 +57,4 @@
 
 - [PPT](https://github.com/raulbm/TablasDinamicas/raw/master/An%C3%A1lisis%20de%20datos%20con%20Excel%20-%20Conceptos%20b%C3%A1siscos%20previos.pptx)
 - [Ejercicio](https://github.com/raulbm/TablasDinamicas/raw/master/Lab%201%20-%20An%C3%A1lisis%20Cl%C3%A1sico%20ejercicio.xlsx)
-- [Solución](
+- [Solución](https://github.com/raulbm/TablasDinamicas/raw/master/Lab%201%20-%20An%C3%A1lisis%20Cl%C3%A1sico%20-%20Cuadro%20de%20Mando%20CA.xlsx)
